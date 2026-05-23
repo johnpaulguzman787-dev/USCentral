@@ -1,0 +1,54 @@
+OKAY I WANT TOT ADD
+
+Organization Status
+Academic Year Binding
+VISIBILITY & CONTROL FEATURES
+Quick View Drawer / Modal
+Organization Chart (Org Chart)
+Organization Events Summary
+Statistics Panel
+Permission-Based Actions
+
+
+Organization Overview
+
+Adviser Panel
+
+Officer Contact Visibility
+
+Activity Summary
+
+Reports / Submissions
+
+
+1. Report Status Summary ✅
+
+Published Reports Count – display the total number of published reports, maybe with a green checkmark or badge.
+
+Draft Reports Count – total drafts, with a yellow or orange warning icon.
+
+Not Published / Pending Reports – optional, with a grey or neutral icon.
+
+2. Submission Activity 📊
+
+Organizations Submitted – number of orgs that submitted their report, building icon.
+
+Organizations Pending / Not Submitted – number of orgs yet to submit, warning icon.
+
+Latest Submission Time – last report submitted, clock icon.
+
+Submission Trend – small bar or line chart showing submissions: Today / This week / This month.
+
+Top Submitting Organizations – maybe top 3 orgs with fastest submission, trophy or medal icon.
+
+3. Recent Activity Feed 📋
+
+“Report X was published” – green check icon, shows which report went live.
+
+“Organization Y submitted report Z” – building icon, time-stamped.
+
+“Draft X was updated” – pencil icon.
+
+“Report Z marked Not Approved” – red cross icon, with reason tooltip.
+
+Time Ago Display – e.g., “5 mins ago”, “2 hours ago”, so admin can quickly see recency.
